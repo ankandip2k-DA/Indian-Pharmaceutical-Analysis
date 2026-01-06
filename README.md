@@ -71,7 +71,6 @@ Tools Used
 
 Excel
 
-Power BI
 
 Key Visuals
 
