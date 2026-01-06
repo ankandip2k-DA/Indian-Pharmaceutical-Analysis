@@ -1,6 +1,6 @@
 💊 Indian Pharmaceutical Market Analysis
 
-Data-Driven Insights using Excel & Power BI
+Data-Driven Insights using Excel
 
 This project analyzes the Indian pharmaceutical market using a large-scale dataset to uncover pricing trends, manufacturer dominance, product discontinuation patterns, and therapeutic insights. The goal is to support competitive analysis and pricing strategy decisions through data-driven insights.
 
