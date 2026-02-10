@@ -70,7 +70,6 @@ Created a `Price_Group` column for affordability analysis:
 ## 📊 Data Analysis & Dashboard Design
 ### 🛠 Tools Used
 - Microsoft Excel  
-- Power BI  
 
 ### 📈 Key Visuals
 - **KPI Cards:** Total Products, Average Price, % Discontinued  
